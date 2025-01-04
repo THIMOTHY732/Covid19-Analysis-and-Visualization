@@ -1,4 +1,4 @@
-# Covid19-Analysis-and-Visualization
+# Covid19-Analysis-and-Visualization Project
 
 ## 📖 Project Overview
 The **Covid19-Analysis-and-Visualization** project uses data analysis and visualization techniques to analyze the effects of the ongoing COVID-19 pandemic in India. This project focuses on creating visualizations to highlight important observations made during the analysis of COVID-19 data.
