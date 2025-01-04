@@ -2,11 +2,11 @@
 
 ## 📖 Project Overview
 The **Covid19-Analysis-and-Visualization** project uses data analysis and visualization techniques to analyze the effects of the ongoing COVID-19 pandemic in India. This project focuses on creating visualizations to highlight important observations made during the analysis of COVID-19 data.
-![](highestcovidcases.JPG)
+
 
 
 The project includes various analyses and visualizations, such as the cumulative number of cases, total positive cases in each age group, state-wise distribution, and other critical COVID-19 statistics in India.
-![](ICMRTestingdetails.JPG)
+
 
 ---
 
@@ -72,6 +72,12 @@ The project includes various analyses and visualizations, such as the cumulative
 - **Data Analysis for COVID-19**: Helping public health authorities understand the impact of COVID-19 in India.
 - **State/UT-wise Comparison**: Visualizing differences in COVID-19 statistics across states and union territories.
 - **Public Awareness**: Providing insights into COVID-19 statistics for better decision-making in healthcare.
+
+![](highestcovidcases.JPG)
+
+![](ICMRTestingdetails.JPG)
+
+
 
 ## 🤝 Contributing
 Contributions are welcome!
