@@ -53,7 +53,7 @@ The project includes various analyses and visualizations, such as the cumulative
 ## 🚀 How to Run the Project
 - 1. Clone the repository:
     ```bash
-    git clone https://github.com/THIMOTHY732/Covid19-Analysis-and-Visualization.git
+    git clone https://github.com/THIMOTHY732/Covid19-Analysis-and-Visualization-Project.git
     ```
 - 2. Navigate to the project directory:
     ```bash
